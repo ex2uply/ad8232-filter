@@ -59,6 +59,3 @@ MIT License
 
 * [Analog Devices AD8232 Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/AD8232.pdf)
 * Biomedical Signal Processing literature for filter design
-
-```
-```
