@@ -51,6 +51,10 @@ ad8232-filter/
 
 Pull requests are welcome. For major changes, open an issue first to discuss proposed modifications.
 
+## Final Output
+![WhatsApp Image 2025-05-06 at 14 38 50_5fec03ae](https://github.com/user-attachments/assets/58a3c776-5874-4af5-a92d-b65b42196c57)
+
+
 ## License
 
 MIT License
