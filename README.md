@@ -52,7 +52,7 @@ ad8232-filter/
 Pull requests are welcome. For major changes, open an issue first to discuss proposed modifications.
 
 ## Final Output
-![WhatsApp Image 2025-05-06 at 14 38 50_5fec03ae](https://github.com/user-attachments/assets/58a3c776-5874-4af5-a92d-b65b42196c57)
+![IMG-20250506-WA0007 1](https://github.com/user-attachments/assets/530b3804-ac0d-4642-b6b3-f70985975f81)
 
 
 ## License
