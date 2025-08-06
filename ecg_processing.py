@@ -11,7 +11,7 @@ def bandpass(signal, low, high, fs, order=4):
 def process_ecg(input_csv_path, plot_path):
     df = pd.read_csv("C:/Users/adity/Downloads/ecg/downloaded_ecg.csv")
     ecg = pd.to_numeric(df.iloc[:, -1], errors='coerce').dropna().values
-    fs = 100  # Sampling rate from Arduino (samplingInterval = 10ms)
+    fs = 100  # Sampling rate from esp32 (samplingInterval = 10ms)
 
     # Filter ECG signal
     ecg_filt = bandpass(ecg - np.mean(ecg), 0.5, 40, fs)
